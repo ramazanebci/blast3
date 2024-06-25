@@ -1,3 +1,4 @@
+
 # Blast — Storybook for Laravel Blade 🚀
 
 <a href="https://github.com/area17/blast/actions"><img src="https://github.com/area17/blast/actions/workflows/phpunit.yml/badge.svg" alt="phpunit tests status"></a>
